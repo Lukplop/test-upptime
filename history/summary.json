@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 388,
+    "timeDay": 76,
     "timeWeek": 182,
-    "timeMonth": 109,
+    "timeMonth": 110,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 1125,
-    "timeWeek": 528,
-    "timeMonth": 266,
-    "timeYear": 225,
-    "dailyMinutesDown": {
-      "2023-11-28": 7
-    }
+    "timeDay": 1152,
+    "timeWeek": 536,
+    "timeMonth": 265,
+    "timeYear": 226,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 307,
-    "timeDay": 71,
-    "timeWeek": 334,
-    "timeMonth": 329,
+    "time": 308,
+    "timeDay": 480,
+    "timeWeek": 348,
+    "timeMonth": 331,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2023-09-13": 23,
@@ -84,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "9.29%",
+    "uptime": "9.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -95,7 +93,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-28": 896,
+      "2023-11-29": 20,
+      "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -458,8 +457,7 @@
       "2022-12-03": 1440,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
-      "2022-11-30": 1440,
-      "2022-11-29": 1440
+      "2022-11-30": 1440
     }
   }
 ]

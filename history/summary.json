@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 90,
-    "timeWeek": 82,
-    "timeMonth": 78,
+    "timeDay": 111,
+    "timeWeek": 85,
+    "timeMonth": 80,
     "timeYear": 107,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 65,
-    "timeWeek": 198,
+    "timeDay": 177,
+    "timeWeek": 201,
     "timeMonth": 169,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -42,17 +42,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 341,
-    "timeDay": 176,
-    "timeWeek": 218,
+    "timeDay": 278,
+    "timeWeek": 246,
     "timeMonth": 247,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-02-28": 7,
       "2024-01-10": 104,
       "2023-12-15": 23,
       "2023-12-12": 216,
@@ -86,7 +85,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "8.63%",
+    "uptime": "8.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -97,7 +96,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-28": 692,
+      "2024-02-29": 20,
+      "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
@@ -460,8 +460,7 @@
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
-      "2023-03-02": 1440,
-      "2023-03-01": 1440
+      "2023-03-02": 1440
     }
   }
 ]

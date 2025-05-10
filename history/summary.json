@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 249,
-    "timeWeek": 154,
-    "timeMonth": 108,
-    "timeYear": 109,
+    "timeDay": 100,
+    "timeWeek": 157,
+    "timeMonth": 109,
+    "timeYear": 108,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 703,
-    "timeWeek": 258,
-    "timeMonth": 237,
-    "timeYear": 220,
+    "timeDay": 208,
+    "timeWeek": 282,
+    "timeMonth": 241,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 291,
-    "timeWeek": 319,
-    "timeMonth": 335,
+    "timeDay": 153,
+    "timeWeek": 273,
+    "timeMonth": 323,
     "timeYear": 312,
-    "dailyMinutesDown": {
-      "2025-05-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broken Site",
@@ -79,7 +77,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "6.46%",
+    "uptime": "6.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -90,7 +88,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-09": 603,
+      "2025-05-10": 29,
+      "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -453,8 +452,7 @@
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
-      "2024-05-11": 1440,
-      "2024-05-10": 1440
+      "2024-05-11": 1440
     }
   }
 ]
